@@ -5,3 +5,11 @@
     color: #333;
     
 }
+
+a{
+    color: black
+}
+
+a:hover {
+	color: blue; /* Cambia el color del enlace cuando el cursor pasa por encima */
+}
